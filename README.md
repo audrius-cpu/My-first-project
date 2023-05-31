@@ -1,1 +1,1 @@
-Sukuriama programa, kuri leidžia vartotojui įvesti studento duomenis, paskui juos apdoroja ir pateikia rezultatus
+Sukuriama programa, kuri leidžia vartotojui pasirinkti duomenų įvedimą (įvedinėti ranka ar nuskaityti iš failo), paskui juos apdoroja ir pateikia rezultatus. Įterptas išimčių valdymas norint apsaugoti / patikrinti, ar įvedamas failas egzzistuoja. 
